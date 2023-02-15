@@ -1,0 +1,80 @@
+.s ul{
+    background-color: rgb(0, 99, 102);
+    overflow: auto;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.s li{
+    display: inline-block;
+    text-align: center;
+}
+.s li a{
+    display: inline-block;
+    background-color: rgb(0, 64, 94);
+    overflow: auto;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.s li a:hover{
+    background-color: rgb(0, 72, 131);
+}
+.q{
+    background-color: rgb(0, 180, 235);
+    overflow: auto;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.photo{
+    background-color: rgb(11, 0, 172);
+    overflow: scroll;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    margin: 20px;
+    object-fit: cover;
+    object-position: top;
+}
+.y{
+    background-color: rgba(0, 54, 153, 0.274);
+    overflow: auto;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+h1{
+    color: rgba(0, 184, 98, 0.596);
+    font-size: large;
+    font-weight: bolder;
+}
+.q h2{background-color: rgb(0, 65, 117);
+    overflow: scroll;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    margin: 20px;
+    object-fit: cover;
+    object-position: top;
+
+}
+.photo h2{
+    color: rgb(0, 53, 167);
+    font-size: medium;
+}
+.f{
+    background-color: rgb(0, 97, 76);
+    overflow: auto;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
